@@ -9,9 +9,7 @@ add_executable(Peiman_Timaji_IN2029_Coursework
     FileManager.cpp
     FileManager.h
     main.cpp
-    PaymentManager.cpp
-    PaymentManager.h
-    Person.cpp
+        Person.cpp
     Person.h
     StatementPrinter.cpp
     StatementPrinter.h)
